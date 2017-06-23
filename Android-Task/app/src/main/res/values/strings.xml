@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Task</string>
+    <string name="task_details">Update Task</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+
+    <string name="datecreated">Create on:</string>
+    <string name="updatedon">Updated on:</string>
+    <string name="add">add</string>
+    <string name="add_new_task_error">Cannot add new task</string>
+    <string name="notupdatedyet">Not updated yet</string>
+
+
+</resources>
